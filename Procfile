@@ -1,0 +1,1 @@
+web: gunicorn nyang_project.wsgi --log-file -
